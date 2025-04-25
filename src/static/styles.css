@@ -199,3 +199,35 @@ body.dark-mode button {
 body.dark-mode button:hover {
   background-color: #555;
 }
+
+.participant-info {
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  color: #0d47a1;
+}
+
+.participant-info h4 {
+  margin-bottom: 10px;
+  color: #1565c0;
+}
+
+.participant-info p {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #1e88e5;
+}
+
+.participant-info ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: circle;
+  color: #1976d2;
+}
+
+.participant-info ul li {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
